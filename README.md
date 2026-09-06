@@ -22,7 +22,7 @@
 
 I'm a Computer Engineering student at **Egypt University of Informatics (EUI)**, building my career at the intersection of **Data Science, Machine Learning, and Artificial Intelligence**. My path started with core programming and computer engineering fundamentals, and has grown into a focused interest in extracting meaningful insights from data and building intelligent systems that solve real problems.
 
-I learn by building — from end-to-end data analysis pipelines to intrusion detection systems and predictive models — and I'm currently deepening my skills in deep learning and network security. I hold a CGPA of **3.92**, and I'm continuously expanding my practical experience through structured programs like the **Samsung Innovation Campus AI Scholarship** and the **NTI Machine Learning Summer Program**.
+I learn by building — from end-to-end data analysis pipelines to intrusion detection systems and predictive models — and I'm currently deepening my skills in deep learning and network security. I'm continuously expanding my practical experience through structured programs like the **Samsung Innovation Campus AI Scholarship** and the **NTI Machine Learning Summer Program**.
 
 <br/>
 
